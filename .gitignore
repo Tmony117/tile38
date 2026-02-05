@@ -9,3 +9,4 @@ packages/
 # Ignore IDE folders
 .idea/
 .vscode/
+env.go
